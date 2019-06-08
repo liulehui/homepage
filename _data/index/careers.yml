@@ -1,29 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: ByteDance
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at ByteDance Ads Team.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Engineer Intern
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Columbia University
+    i18n: company_a
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Studying machine learning, deep learning, natural language processing, The most state-of-the-art technology.
+    i18n: company_a_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Sep. 2018, New York
+    i18n: company_a_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Data Science Master
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Udacity
+    i18n: company_a
+  desc:
+    detail: I worked as a Data Analyst at Udacity Growth Hacking Team. 
+    Developed SQL code, making data visualization dashboards and run some experiments with python.
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2018
+    i18n: company_a_date
+  job:
+    detail: Data Analyst Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Liulishuo (NYSE：LAIX)
+    i18n: company_a
+  desc:
+    detail: I worked as a Product Manager/Data Analyst at Liulishuo Product Team.
+    i18n: company_a_desc
+  date:
+    detail: Jun. 2017
+    i18n: company_a_date
+  job:
+    detail: Data Analyst Intern
+    i18n: company_a_job
   icon: fa-plus-square
