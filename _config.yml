@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: LehuiLiu
+title: liulehui
 description: Lehui's blog,use Jekyll and github pages.
 keywords: Lehui,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -10,7 +10,7 @@ url: https://liulehui.github.io/homepage  # url should be 'http://<github_userna
 img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  Lehui Liu # change following line to your infomation.
+author: Lehui Liu # change following line to your infomation.
   name: liulehui  # Be used at blog posts' author.
   first_name: Lehui  # Be used at index page about me section.
   last_name: Liu   # Be used at index page about me section.
