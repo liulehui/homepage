@@ -32,8 +32,7 @@
     detail: Udacity
     i18n: company_a
   desc:
-    detail: I worked as a Data Analyst at Udacity Growth Hacking Team. 
-    Developed SQL code, making data visualization dashboards and run some experiments with python.
+    detail: I worked as a Data Analyst at Udacity Growth Hacking Team. Developed SQL code, making data visualization dashboards and run some experiments with python.
     i18n: company_a_desc
   date:
     detail: Feb. 2018
